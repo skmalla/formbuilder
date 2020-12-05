@@ -1,0 +1,26 @@
+.background {
+  background-color: white !important;
+}
+
+.icon {
+  position: absolute;
+  top: 30px;
+  right: 19px;
+}
+
+.cardHeader {
+  background-color: rgb(242, 248, 248) !important;
+  height: 60px !important;
+}
+
+.textarea_resize {
+  resize: none !important;
+}
+
+.text {
+  margin-bottom: 1% !important;
+}
+
+.cardRadius {
+  border-radius: 15px !important;
+}
